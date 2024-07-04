@@ -1,0 +1,33 @@
+\begin{thebibliography}{1}
+
+\bibitem{gao2021random}
+Zijian Gao and Amanda Kowalczyk.
+\newblock Random forest model identifies serve strength as a key predictor of
+  tennis match outcome.
+\newblock {\em Journal of Sports Analytics}, 7(4):255--262, 2021.
+
+\bibitem{gollub2019producing}
+Jacob Gollub.
+\newblock {\em Producing Win Probabilities for Professional Tennis Matches from
+  any Score}.
+\newblock PhD thesis, 2019.
+
+\bibitem{KNOTTENBELT20123820}
+William~J. Knottenbelt, Demetris Spanias, and Agnieszka~M. Madurska.
+\newblock A common-opponent stochastic model for predicting the outcome of
+  professional tennis matches.
+\newblock {\em Computers \& Mathematics with Applications}, 64(12):3820--3827,
+  2012.
+
+\bibitem{sipko2015machine}
+Michal Sipko and William Knottenbelt.
+\newblock Machine learning for the prediction of professional tennis matches.
+\newblock {\em MEng computing-final year project, Imperial College London}, 2,
+  2015.
+
+\bibitem{yue2022study}
+Jack~C Yue, Elizabeth~P Chou, Ming-Hui Hsieh, and Li-Chen Hsiao.
+\newblock A study of forecasting tennis matches via the glicko model.
+\newblock {\em Plos one}, 17(4):e0266838, 2022.
+
+\end{thebibliography}
